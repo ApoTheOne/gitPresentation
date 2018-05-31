@@ -1,24 +1,42 @@
 ---?image=https://raw.githubusercontent.com/wiki/gitpitch/gitpitch/images/stunning.png
 ---
 ### What?
-Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).
+Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML)
 ---
 #### Why **_Markdown_**?
 
-[Markdown][1] == FAST!!!!
+[Markdown][1] == FAST && EASY
 
 HTML's start and closing tags  
--- vs  
+ vs  
 Simple text
-
-List:
+---
+Let's try it out
+Create list:
 
 1.  item 1
 2.  item 2
 
+* First
+* Second
+---
+Hyperlinks:
+```
+[Text] (link)
+```
+OR
+```
+[Text][variable]
+variable: url
+```
+
+[Click here][g]
+
+[g]: wwww.google.com
 [1]: https://github.com/ApoTheOne/gitPresentation
 ---
 Adding images :
+?
 ---
 # GIT CLI BASICS
 
