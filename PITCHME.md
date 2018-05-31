@@ -1,8 +1,6 @@
-# MARKDOWN
----?image=https://raw.githubusercontent.com/wiki/gitpitch/gitpitch/images/stunning.png
-
+# GitPitch and MARKDOWN
+---
 ### What?
-
 Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).
 
 # Why **_Markdown_**?
@@ -19,7 +17,8 @@ List:
 2.  item 2
 
 [1]: https://github.com/ApoTheOne/gitPresentation
-
+Add images :
+---?image=https://raw.githubusercontent.com/wiki/gitpitch/gitpitch/images/stunning.png
 # GIT CLI BASICS
 
 ##### CONFIG & HELP
