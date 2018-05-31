@@ -17,8 +17,10 @@ List:
 2.  item 2
 
 [1]: https://github.com/ApoTheOne/gitPresentation
-Add images :
+---
+Adding images :
 ---?image=https://raw.githubusercontent.com/wiki/gitpitch/gitpitch/images/stunning.png
+---
 # GIT CLI BASICS
 
 ##### CONFIG & HELP
