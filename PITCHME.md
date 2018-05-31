@@ -15,11 +15,10 @@ Simple text
 Let's try it out
 Create list: |
 
-1.  item 1 |
-2.  item 2 |
-
 * First |
 * Second |
+* Third |
+* Fourth |
 ---
 Hyperlinks:
 ```
@@ -30,7 +29,6 @@ OR
 [Text][variable]
 variable: url
 ```
-
 [Click here][g]
 
 [g]: wwww.google.com
