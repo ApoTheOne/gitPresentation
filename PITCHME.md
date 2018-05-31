@@ -13,7 +13,10 @@ HTML's start and closing tags
 Simple text
 ---
 Let's try it out
-Create list: |
+
+Use numbers, *, or - to created list items.
+
+Sample:
 
 * First |
 * Second |
