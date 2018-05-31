@@ -10,7 +10,7 @@
 
 HTML's start and closing tags  
 -- vs  
-Simple markdown text
+Simple text
 
 List:
 
