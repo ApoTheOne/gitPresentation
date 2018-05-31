@@ -3,16 +3,17 @@
 ### What?
 Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML)
 ---
-#### Why **_Markdown_**?
+#### Why Markdown?
 
 Markdown == FAST && EASY
+
 
 HTML's start and closing tags  
  vs  
 Simple text
 ---
 Let's try it out
-Create list:
+Create list: |
 
 1.  item 1 |
 2.  item 2 |
@@ -35,10 +36,11 @@ variable: url
 [g]: wwww.google.com
 [1]: https://github.com/ApoTheOne/gitPresentation
 ---
-Adding images :
-?
+Adding images :  
+?imageUrl
+
 ---
-# GIT CLI BASICS
+### GIT CLI BASICS
 
 ##### CONFIG & HELP
 
