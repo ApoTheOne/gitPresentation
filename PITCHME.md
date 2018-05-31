@@ -1,10 +1,23 @@
 # MARKDOWN
 
-# Why _you_ should use Markdown to write your next blog post
+### What?
 
-[Markdown][1] is just lit, it will make your _whole life_ easier. **I promise.**
+## Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).
 
-[1]: http://github.com/apotheone
+# Why **_Markdown_**?
+
+[Markdown][1] == FAST!!!!
+
+HTML's start and closing tags  
+-- vs  
+Simple markdown text
+
+List:
+
+1.  item 1
+2.  item 2
+
+[1]: https://github.com/ApoTheOne/gitPresentation
 
 # GIT CLI BASICS
 
