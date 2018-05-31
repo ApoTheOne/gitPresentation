@@ -5,7 +5,7 @@ Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you 
 ---
 #### Why **_Markdown_**?
 
-[Markdown][1] == FAST && EASY
+Markdown == FAST && EASY
 
 HTML's start and closing tags  
  vs  
@@ -14,11 +14,11 @@ Simple text
 Let's try it out
 Create list:
 
-1.  item 1
-2.  item 2
+1.  item 1 |
+2.  item 2 |
 
-* First
-* Second
+* First |
+* Second |
 ---
 Hyperlinks:
 ```
