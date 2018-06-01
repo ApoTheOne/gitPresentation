@@ -133,11 +133,11 @@ Add Videos:
 
 Each slideshow presentation is beautifully rendered, fully responsive, and highly interactive with a rich set of features including:
 
-Markdown slides  
-Code and GIST slides    
-Image and Video slides    
-Math Notation and Chart slides  
-Fragment slides  
+1 Markdown slides  
+2 Code and GIST slides    
+3 Image and Video slides    
+4 Math Notation and Chart slides  
+5 Fragment slides  
 
 ---
 
