@@ -15,7 +15,12 @@ If you ever find yourself needing to present a concept, design, library, framewo
 - To colleagues, clients or customers |
 - At meetups or conferences |
 - At training events or teaching sessions |
-- Then GitPitch is for you. Simply capture your ideas in Markdown and let GitPitch automatically turn those ideas into compelling, responsive, online and offline slideshow presentations.
+
+---
+
+Then GitPitch is for you. 
+
+Simply capture your ideas in Markdown and let GitPitch automatically turn those ideas into compelling, responsive, online and offline slideshow presentations.
 
 ---
 How does GitPitch work?  
