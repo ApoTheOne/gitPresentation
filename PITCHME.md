@@ -12,9 +12,9 @@ The service introduces a new convention for Git users, called PITCHME.md. The Gi
 Is GitPitch for you?
 If you ever find yourself needing to present a concept, design, library, framework, product, service, training materials, or educational course work:  
 
-- To colleagues, clients or customers |
-- At meetups or conferences |
-- At training events or teaching sessions |
+- To colleagues, clients or customers 
+- At meetups or conferences 
+- At training events or teaching sessions 
 
 ---
 
