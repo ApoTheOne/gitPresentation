@@ -18,23 +18,22 @@ Who maintains and contributes to the project
 - Formats - Read.me, Readme.txt, README.md etc.
 ---
 ### Markdown
+##### What?
 Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML)
 ---
-#### Why Markdown?
+##### Why?
 
 Markdown == FAST && EASY
-
 
 HTML's start and closing tags  
  vs  
 Simple text
 ---
-Let's try it out
+Let's try it out  
+Use ```*bold*``` to make text **bold**.
+Use ```*italic*``` for *italic*.
 
-Use numbers, *, or - to created list items.
-
-Sample:
-
+Use numbers, *, or - to create lists.
 * First |
 * Second |
 * Third |
@@ -46,16 +45,16 @@ Hyperlinks:
 ```
 OR
 ```
-[Text][variable]
-variable: url
+[Click here to go to google][url]
+[url]: www.google.com
 ```
-[Click here][g]
+[Click here to go to google][g]
 
 [g]: wwww.google.com
-[1]: https://github.com/ApoTheOne/gitPresentation
 ---
 Adding images :  
 ?imageUrl
+---
 
 ---
 ### GIT CLI BASICS
@@ -234,7 +233,7 @@ git remote add origin https://github.com/ApoTheOne/gitPresentation.git
 git push -u origin master
 ```
 
----
+
 
 …or push an existing repository from the command line
 
