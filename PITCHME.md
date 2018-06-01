@@ -36,36 +36,23 @@ No more Keynote. No more PowerPoint. Just Markdown. Then git-commit and push on 
 - GITPITCH |
 ---
 
-### README
-A README is often the first item a visitor will see when visiting your repository.  
-README files typically include information on:
+#### What is Markdown?
+Markdown is a text-to-HTML conversion tool for web writers.  
+Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML)
 
 ---
 
-- What the project does 
-- Why the project is useful |
-- How users can get started with the project |
-- Where users can get help with your project |
-- Who maintains and contributes to the project |
----
-- What? Answered.
-- Why? Importance of README files
-- Formats - Read.me, Readme.txt, README.md etc.
----
-### Markdown
-##### What?
-Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML)
----
-##### Why?
+#### Why?
 
 Markdown == FAST && EASY
 
 HTML's start and closing tags  
  vs  
 Simple text
+
 ---
 Let's try it out  
-Use ```*bold*``` to make text **bold**.
+Use ```*bold*``` to make text **bold**.  
 Use ```*italic*``` for *italic*.
 
 Use numbers, *, or - to create lists.
@@ -73,7 +60,9 @@ Use numbers, *, or - to create lists.
 * Second |
 * Third |
 * Fourth |
+
 ---
+
 Hyperlinks:
 ```
 [Text] (link)
@@ -85,9 +74,22 @@ OR
 ```
 [Click here][g]
 
-[g]: wwww.google.com
+[g]: README.md
 ---
 Adding images :  
-?imageUrl
+```---?image=url
+```
+
 ---
+
+Each slideshow presentation is beautifully rendered, fully responsive, and highly interactive with a rich set of features including:
+
+Markdown slides
+Code and GIST slides
+Image and Video slides
+Math Notation and Chart slides
+Fragment slides
+
+---
+
 #### Thank you!
