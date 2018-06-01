@@ -51,7 +51,7 @@ Simple text
 
 ---
 Let's try it out  
-Use ```*bold*``` to make text **bold**.  
+Use ```**bold**``` to make text **bold**.  
 Use ```*italic*``` for *italic*.
 
 Use numbers, *, or - to create lists.
@@ -76,18 +76,27 @@ OR
 [g]: README.md
 ---
 Adding images :  
-```---?image=url
 ```
+~[Name](URL)
+```
+![Logo](assets/logo.jpg)
 
+---
+Code Snippets:
+```
+const greetingText = 'Hello';
+let name = 'Qwerty';
+console.log(`{greetingText}, {name}!`);
+```
 ---
 
 Each slideshow presentation is beautifully rendered, fully responsive, and highly interactive with a rich set of features including:
 
-Markdown slides
-Code and GIST slides
-Image and Video slides
-Math Notation and Chart slides
-Fragment slides
+Markdown slides  
+Code and GIST slides    
+Image and Video slides    
+Math Notation and Chart slides  
+Fragment slides  
 
 ---
 
