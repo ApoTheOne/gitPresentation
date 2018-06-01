@@ -55,11 +55,11 @@ Use ```**bold**``` to make text **bold**.
 Use ```*italic*``` for *italic*.
 
 Use numbers, *, or - to create lists.
-* First |
-* Second |
-* Third |
-* Fourth |
-
+@ul
+- Plain text list item
+- Rich **markdown** list *item*
+- Link [within](https://gitpitch.com) list item
+@ulend
 ---
 
 Hyperlinks:
@@ -114,6 +114,20 @@ Any word wrapped with two tildes (like ~~this~~) will appear crossed out.
 
 Emoji
 GitHub supports emoji! :sparkles: :camel: :boom: :smile:
+
+---
+
+Add Images:
+```
+![Logo](http://spark.apache.org/images/spark-logo-trademark.png)
+```
+![Logo](http://spark.apache.org/images/spark-logo-trademark.png)
+
+---
+
+Add Videos:
+
+![Video](https://www.youtube.com/embed/mkiDkkdGGAQ)
 
 ---
 
