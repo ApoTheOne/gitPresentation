@@ -10,30 +10,24 @@ The service introduces a new convention for Git users, called PITCHME.md. The Gi
 
 ---
 Is GitPitch for you?
-If you ever find yourself needing to present a concept, design, library, framework, product, service, training materials, or educational course work:
+If you ever find yourself needing to present a concept, design, library, framework, product, service, training materials, or educational course work:  
 
-To colleagues, clients or customers
-At meetups or conferences
-At training events or teaching sessions
-Then GitPitch is for you. Simply capture your ideas in Markdown and let GitPitch automatically turn those ideas into compelling, responsive, online and offline slideshow presentations.
+- To colleagues, clients or customers |
+- At meetups or conferences |
+- At training events or teaching sessions |
+- Then GitPitch is for you. Simply capture your ideas in Markdown and let GitPitch automatically turn those ideas into compelling, responsive, online and offline slideshow presentations.
 
 ---
-How does GitPitch work?
+How does GitPitch work?  
 GitPitch presentations are powered by the amazing reveal.js presentation framework. But with GitPitch there is nothing to download. Nothing to install. All you need is your favorite text editor. And an account on GitHub, GitLab, or Bitbucket. Or a self-hosted instance of GitHub Enterprise, GitLab CE, GitBucket, Gitea, or Gogs.
+
+---
 
 ```
 git add PITCHME.md
 git commit -m "My first presentation"
 git push
 ```
-
-No more Keynote. No more PowerPoint. Just Markdown. Then git-commit and push on any branch within a public GitHub, GitLab, Bitbucket, GitBucket, Gitea, or Gogs repo.
-
----
-
-- README 
-- MARKDOWN |
-- GITPITCH |
 ---
 
 #### What is Markdown?
