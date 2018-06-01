@@ -1,5 +1,21 @@
 ---?image=https://raw.githubusercontent.com/wiki/gitpitch/gitpitch/images/stunning.png
 ---
+- README Files |
+- MARKDOWN |
+- GITPITCH 
+---
+### README
+A README is often the first item a visitor will see when visiting your repository. README files typically include information on:
+
+What the project does
+Why the project is useful
+How users can get started with the project
+Where users can get help with your project
+Who maintains and contributes to the project
+- What is a README file?
+- Importance of README files
+- Formats - Read.me, Readme.txt, README.md etc.
+---
 ### What?
 Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML)
 ---
