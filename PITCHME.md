@@ -1,6 +1,6 @@
----?image=https://raw.githubusercontent.com/wiki/gitpitch/gitpitch/images/stunning.png
+---?image=https://github.com/ApoTheOne/gitPresentation/blob/master/assets/image/stunning.png
 ---
-- README |
+- README 
 - MARKDOWN |
 - GITPITCH |
 ---
