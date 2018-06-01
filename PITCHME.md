@@ -1,6 +1,6 @@
 ---?image=https://raw.githubusercontent.com/wiki/gitpitch/gitpitch/images/stunning.png
 ---
-- README Files |
+- README |
 - MARKDOWN |
 - GITPITCH 
 ---
