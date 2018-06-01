@@ -1,5 +1,7 @@
 ---?image=https://raw.githubusercontent.com/wiki/gitpitch/gitpitch/images/stunning.png
 ---
+---?image=./assets/image/stunning.png
+---
 What is GitPitch?
 GitPitch is a markdown presentation service for everyone on Git. You can use it to promote, pitch or present absolutely anything using the tools you already know and love - Markdown + Git.
 
