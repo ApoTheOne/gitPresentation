@@ -1,5 +1,3 @@
-# ---?image=assets/image/stunning.png
-
 ---
 
 What is GitPitch?  
